@@ -1,0 +1,5 @@
+My project is a music application, which stores songs and a lot of additional data of their lyrics, albums, picture covers, genres and artists.
+It contains all description about artists like their biography, members, pictures of these members and from which city and country they are.
+I want to develop this project further for final exam and add users. They would have options for creating playlists, add songs and albums, follow their favorite artists.
+They could also interact with each other and become friends inside of this application.
+I also want to add a song recommendation system for users depending on their music taste.
